@@ -12,3 +12,14 @@ Face Mask Detector for COVID-19 Pandemic
    Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, 
    data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing 
    free access to computing resources including GPUs.
+
+# Steps to execute the Project -
+Step 1 : Prepare the dataset
+Step 2 :  Set up google drive and collab accounts
+Step 3 : Clone, Configure and compile Darknet
+Step 4 : configure yolov3.cfg file 
+Step 5 : create .names file
+Step 6 : create .data files
+Step 7 : create folder for image
+Step 8 : Download pre-trained weights
+Step 9 : start training
