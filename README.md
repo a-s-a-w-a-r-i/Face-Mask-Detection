@@ -14,8 +14,8 @@ Face Mask Detector for COVID-19 Pandemic
    free access to computing resources including GPUs.
 
 # Steps to execute the Project -
-Step 1 : Prepare the dataset
-Step 2 :  Set up google drive and collab accounts
+Step 1 : Prepare the dataset\n
+Step 2 :  Set up google drive and collab accounts \n
 Step 3 : Clone, Configure and compile Darknet
 Step 4 : configure yolov3.cfg file 
 Step 5 : create .names file
